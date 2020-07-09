@@ -11,11 +11,11 @@ dotnet publish -r win-x64 -c Release -o ./release
 Write-Host "Copy files to docs" -ForegroundColor Green
 Copy-Item -Path .\release\wwwroot\* -Destination .\docs
 
-Write-Host "Modify index" -ForegroundColor Green
+Start-Sleep -Seconds 1
 
-Write-Host "Creating install script..." -ForegroundColor Green
+Write-Host "Modify index" -ForegroundColor Green
 $IndexContent = Get-Content -Path .\docs\index.html
-$IndexContent = $IndexContent -replace '<base href="/" />', '<base href="/BlazorPresentation/" />'
+$IndexContent = $IndexContent -replace '<base href="/" />', '<base href="https://kelvysb.github.io/BlazorPresentation/" />'
 Set-Content -Path .\docs\index.html -Value $IndexContent
 
 Write-Host "Remove temp folder" -ForegroundColor Green
