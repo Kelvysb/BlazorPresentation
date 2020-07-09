@@ -9,7 +9,7 @@ Write-Host "Building" -ForegroundColor Green
 dotnet publish -r win-x64 -c Release -o ./release
 
 Write-Host "Copy files to docs" -ForegroundColor Green
-Copy-Item -Path .\release\wwwroot\* -Destination .\docs
+Copy-Item -Path .\release\wwwroot\* -Destination .\docs -Recurse
 
 Start-Sleep -Seconds 1
 
