@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128.24573mm"
+   height="143.98448mm"
+   viewBox="0 0 128.24573 143.98448"
+   version="1.1"
+   id="svg975"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Blazor_Name.svg">
+  <defs
+     id="defs969" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="717.54141"
+     inkscape:cy="231.5991"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata972">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-50.503337,-84.966045)">
+    <path
+       sodipodi:nodetypes="cssccssssscccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path1542"
+       d="m 143.95396,91.338956 c -22.2426,22.639764 -38.38507,8.659636 -61.705385,16.371744 -8.223105,2.7194 -32.976208,17.04453 -31.697477,46.21189 2.294085,52.32724 65.034882,60.92965 99.086042,26.07316 0.58144,-0.49501 0.55991,-1.14771 -0.55165,-0.36642 -14.3657,10.0017 -40.19642,16.21582 -59.628656,11.45407 -15.31609,-3.75312 -29.575298,-17.3256 -30.245658,-37.22543 -0.360741,-10.70878 6.119472,-29.86041 24.106048,-37.41932 9.850327,-4.13962 31.941686,-8.27536 48.212106,14.28268 5.282,7.3232 8.83808,17.86004 6.592,27.07891 -4.56532,18.73801 -22.49575,14.14743 -26.23876,6.91514 -11.11709,13.57565 -32.611226,6.76522 -34.187935,-11.56832 0.188822,-12.66642 9.356346,-19.45195 17.933176,-20.19838 l 13.734289,0.0992 c 2.7591,0.006 6.62315,2.46198 7.10903,7.49679 0.064,5.36343 -0.29473,10.30418 0.19388,16.09224 1.61402,8.48109 12.30957,8.53374 13.8949,-0.58165 0.83757,-8.59575 -1.72792,-15.80901 -6.39812,-22.16722 -6.49805,-8.37814 -15.26174,-12.12648 -25.721732,-12.40848 -16.429536,0.0845 -31.37132,13.94093 -31.085819,31.60284 -0.423659,10.67336 8.083554,28.08172 28.242209,31.21507 28.930792,2.53036 49.630422,-8.11689 65.209132,-25.07546 19.96933,-23.25601 22.20303,-53.42903 11.95966,-73.000496 -0.43799,-1.201357 -1.22093,-2.048012 -2.20091,-0.09319 -5.95282,9.37138 -10.0726,19.187776 -30.37492,25.075466 -1.53589,0.39754 -2.03316,0.0457 -1.16329,-1.29255 3.78719,-5.48589 5.23056,-11.53998 6.20423,-17.707933 0.32462,-1.341372 -0.6252,-1.516785 -1.27639,-0.864392 z"
+       style="fill:#5c2d91;fill-opacity:1;stroke:none;stroke-width:0.12795588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path1544"
+       d="m 105.86645,140.63474 -11.927318,0.0914 c -11.062783,1.33997 -13.112088,12.7977 -7.814448,19.05629 7.658497,8.65181 19.683446,2.9103 20.564336,-5.89511 l 0.1828,-12.29291 c -0.0426,-0.94403 -0.51512,-0.97071 -1.00537,-0.95966 z"
+       style="fill:#5c2d91;fill-opacity:1;stroke:none;stroke-width:0.12795588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.52597427px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5c2d91;fill-opacity:1;stroke:none;stroke-width:0.6131494"
+       x="77.51989"
+       y="228.65114"
+       id="text1556"><tspan
+         sodipodi:role="line"
+         id="tspan1554"
+         x="77.51989"
+         y="228.65114"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#5c2d91;fill-opacity:1;stroke-width:0.6131494">Blazor</tspan><tspan
+         sodipodi:role="line"
+         x="77.51989"
+         y="259.59253"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#5c2d91;fill-opacity:1;stroke-width:0.6131494"
+         id="tspan824" /></text>
+  </g>
+</svg>
