@@ -260,7 +260,17 @@ app {
     height: 600px;
 }
 
+/*Slide 3*/
+.slide3-images {
+    height: 550px;
+}
+
+/*Slide 5*/
+.slide5-images {
+    height: 300px;
+}
+
 /*Slide 6*/
 .slide6-images {
-    height: 100px;
+    height: 200px;
 }
