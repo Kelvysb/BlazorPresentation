@@ -204,6 +204,12 @@ app {
     }
 }
 
+.topic {
+    color: var(--font-color-dark);
+    font-size: 3em;
+    vertical-align: middle;
+}
+
 /*Index*/
 .index-logo {
     text-align: center;
